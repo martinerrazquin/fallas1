@@ -1,0 +1,8 @@
+{
+  "sustainability": "¿Cuál es la sustentabilidad deseada? [baja, media, alta]",
+  "last_crop": "¿Qué fue lo último que se cultivo en el lote? [soja, girasol, avena, trigo, sorgo, maíz, cebada]",
+  "rain_regime": "¿Cómo es el régimen de lluvias? [bajo, medio, alto]",
+  "month": "¿En qué mes se realizará el cultivo?",
+  "investment": "¿Cuál es el nivel de capital disponible para invertir? [bajo, medio, alto]",
+  "exploitation": "¿Qué tipo de explotación se desea realizar? [agricultura, ganadería, mixta]"
+}
